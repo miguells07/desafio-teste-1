@@ -3,7 +3,7 @@ const prompt = require("prompt-sync")();
 let valorTotal = 0;
 let quantidade;
 
-console.log("Bem-vindo(a) à lanchonete!");
+console.log("Bem-vindo(a) à lanchonete Tachlanches!");
 const nomeCliente = prompt("Por favor, digite seu nome: ");
 
 // Laço principal do pedido: continua até o cliente digitar '0' para sair
